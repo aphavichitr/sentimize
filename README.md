@@ -157,9 +157,9 @@ Session Overview:
 ```
 
 ## Team
-  - Product Owner:            Christian Haug
-  - Scrum Master:             Jack Zhang
-  - Development Team Members: Christian Haug, Jack Zhang, Kani Munidasa, Katherine Hao
+  - Product Owner:            Gabe Fils
+  - Scrum Master:             Brett Lensvelt
+  - Development Team Members: Andrew Phavichitr, Malavika Neti, Brett Lensvelt, Gabe Fils
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
